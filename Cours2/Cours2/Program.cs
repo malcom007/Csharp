@@ -65,9 +65,22 @@ namespace Cours2
                 //il va nous generer un nombre entre 1 et 10
                 int number = rd.Next(1, 11);
 
+
+
                 Console.WriteLine("nombre generé " + number);
             }
 
+
+            //Random des lettres
+
+            Random rnd = new Random();
+
+            for (int i = 0; i < 10; i++)
+            {
+                char randomChar = (char)rnd.Next('a', 'z');
+                Console.WriteLine(randomChar);
             }
+
+    }
     }
 }

@@ -81,6 +81,24 @@ namespace Cours2
                 Console.WriteLine(randomChar);
             }
 
-    }
+            int x = 5;
+            methodeVoid(x);
+            int y = 15;
+            Console.WriteLine("Methode return : "+ methodeReturn(x, y));
+
+
+
+
+        }
+
+        private static int methodeReturn(int x, int y)
+        {
+            return x*y;
+        }
+
+        private static void methodeVoid(int x)
+        {
+            Console.WriteLine(x); ;
+        }
     }
 }

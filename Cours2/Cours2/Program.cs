@@ -98,7 +98,7 @@ namespace Cours2
 
         private static void methodeVoid(int x)
         {
-            Console.WriteLine(x); ;
+            Console.WriteLine("Methode void "+x); ;
         }
     }
 }

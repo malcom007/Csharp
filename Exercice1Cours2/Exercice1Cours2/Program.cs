@@ -7,6 +7,7 @@ namespace Exercice1Cours2
         static void Main(string[] args)
         {
             Console.WriteLine("Age");
+            //Notre tester
             Boolean monTest=true;
             do
             {

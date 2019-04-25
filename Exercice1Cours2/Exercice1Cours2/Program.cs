@@ -7,7 +7,7 @@ namespace Exercice1Cours2
         static void Main(string[] args)
         {
             Console.WriteLine("Age");
-            //Notre tester
+            //Notre tester10681068
             Boolean monTest=true;
             do
             {
@@ -36,8 +36,16 @@ namespace Exercice1Cours2
                     monTest = false;
                 }
 
+                string date = DateTime.Now.ToString("yyyy");
+                Console.WriteLine("Date System "+date);
+                DateTime dateM;
+                dateM = Convert.ToDateTime("09/04/2019");
+                Console.WriteLine(dateM);
 
-                    
+
+
+
+
 
             } while (!monTest);
         }

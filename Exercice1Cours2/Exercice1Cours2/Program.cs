@@ -38,6 +38,7 @@ namespace Exercice1Cours2
 
                 string date = DateTime.Now.ToString("yyyy");
                 Console.WriteLine("Date System "+date);
+
                 DateTime dateM;
                 dateM = Convert.ToDateTime("09/04/2019");
                 Console.WriteLine(dateM);

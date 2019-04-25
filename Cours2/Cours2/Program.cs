@@ -35,27 +35,39 @@ namespace Cours2
             //    Console.WriteLine("Verifier votre nombre");
             //}
 
-            string[] tab = new string[2];
+            //string[] tab = new string[2];
 
-            try
+            //try
+            //{
+
+            //        tab[2] = "Meriem";
+            //    Console.WriteLine(tab[2]);
+
+            //    tab[1] = "Malcom";
+            //    Console.WriteLine(tab[1]);
+            //}
+            //catch (IndexOutOfRangeException)
+            //{
+            //    Console.WriteLine("Vous avez depassé la taille du table");
+
+            //}
+            //catch (Exception )
+            //{
+            //    Console.WriteLine("Erreur final");
+
+            //}
+
+            //Création Random
+            Random rd = new Random();
+
+            for (int i = 0; i < 10; i++)
             {
-                
-                    tab[2] = "Meriem";
-                Console.WriteLine(tab[2]);
-                
-                tab[1] = "Malcom";
-                Console.WriteLine(tab[1]);
+                //il va nous generer un nombre entre 1 et 10
+                int number = rd.Next(1, 11);
+
+                Console.WriteLine("nombre generé " + number);
             }
-            catch (IndexOutOfRangeException)
-            {
-                Console.WriteLine("Vous avez depassé la taille du table");
 
             }
-            catch (Exception )
-            {
-                Console.WriteLine("Erreur final");
-            }
-           
-        }
     }
 }

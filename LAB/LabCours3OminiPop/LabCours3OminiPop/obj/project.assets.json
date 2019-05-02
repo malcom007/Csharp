@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Java/C#/LabCours3OminiPop/LabCours3OminiPop/LabCours3OminiPop.csproj",
+      "projectUniqueName": "/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/LAB/LabCours3OminiPop/LabCours3OminiPop/LabCours3OminiPop.csproj",
       "projectName": "LabCours3OminiPop",
-      "projectPath": "/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Java/C#/LabCours3OminiPop/LabCours3OminiPop/LabCours3OminiPop.csproj",
+      "projectPath": "/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/LAB/LabCours3OminiPop/LabCours3OminiPop/LabCours3OminiPop.csproj",
       "packagesPath": "/Users/mk/.nuget/packages/",
-      "outputPath": "/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Java/C#/LabCours3OminiPop/LabCours3OminiPop/obj/",
+      "outputPath": "/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/LAB/LabCours3OminiPop/LabCours3OminiPop/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

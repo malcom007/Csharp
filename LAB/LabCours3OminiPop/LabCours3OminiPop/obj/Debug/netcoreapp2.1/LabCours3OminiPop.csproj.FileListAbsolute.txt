@@ -1,0 +1,11 @@
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Java/C#/LabCours3OminiPop/LabCours3OminiPop/bin/Debug/netcoreapp2.1/LabCours3OminiPop.deps.json
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Java/C#/LabCours3OminiPop/LabCours3OminiPop/bin/Debug/netcoreapp2.1/LabCours3OminiPop.runtimeconfig.json
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Java/C#/LabCours3OminiPop/LabCours3OminiPop/bin/Debug/netcoreapp2.1/LabCours3OminiPop.runtimeconfig.dev.json
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Java/C#/LabCours3OminiPop/LabCours3OminiPop/bin/Debug/netcoreapp2.1/LabCours3OminiPop.dll
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Java/C#/LabCours3OminiPop/LabCours3OminiPop/bin/Debug/netcoreapp2.1/LabCours3OminiPop.pdb
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Java/C#/LabCours3OminiPop/LabCours3OminiPop/obj/Debug/netcoreapp2.1/LabCours3OminiPop.csprojAssemblyReference.cache
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Java/C#/LabCours3OminiPop/LabCours3OminiPop/obj/Debug/netcoreapp2.1/LabCours3OminiPop.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Java/C#/LabCours3OminiPop/LabCours3OminiPop/obj/Debug/netcoreapp2.1/LabCours3OminiPop.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Java/C#/LabCours3OminiPop/LabCours3OminiPop/obj/Debug/netcoreapp2.1/LabCours3OminiPop.AssemblyInfo.cs
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Java/C#/LabCours3OminiPop/LabCours3OminiPop/obj/Debug/netcoreapp2.1/LabCours3OminiPop.dll
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Java/C#/LabCours3OminiPop/LabCours3OminiPop/obj/Debug/netcoreapp2.1/LabCours3OminiPop.pdb

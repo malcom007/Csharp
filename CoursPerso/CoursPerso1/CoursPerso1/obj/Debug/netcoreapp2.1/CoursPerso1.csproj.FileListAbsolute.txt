@@ -1,0 +1,11 @@
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/CoursPerso/CoursPerso1/CoursPerso1/bin/Debug/netcoreapp2.1/CoursPerso1.deps.json
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/CoursPerso/CoursPerso1/CoursPerso1/bin/Debug/netcoreapp2.1/CoursPerso1.runtimeconfig.json
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/CoursPerso/CoursPerso1/CoursPerso1/bin/Debug/netcoreapp2.1/CoursPerso1.runtimeconfig.dev.json
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/CoursPerso/CoursPerso1/CoursPerso1/bin/Debug/netcoreapp2.1/CoursPerso1.dll
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/CoursPerso/CoursPerso1/CoursPerso1/bin/Debug/netcoreapp2.1/CoursPerso1.pdb
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/CoursPerso/CoursPerso1/CoursPerso1/obj/Debug/netcoreapp2.1/CoursPerso1.csprojAssemblyReference.cache
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/CoursPerso/CoursPerso1/CoursPerso1/obj/Debug/netcoreapp2.1/CoursPerso1.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/CoursPerso/CoursPerso1/CoursPerso1/obj/Debug/netcoreapp2.1/CoursPerso1.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/CoursPerso/CoursPerso1/CoursPerso1/obj/Debug/netcoreapp2.1/CoursPerso1.AssemblyInfo.cs
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/CoursPerso/CoursPerso1/CoursPerso1/obj/Debug/netcoreapp2.1/CoursPerso1.dll
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/CoursPerso/CoursPerso1/CoursPerso1/obj/Debug/netcoreapp2.1/CoursPerso1.pdb

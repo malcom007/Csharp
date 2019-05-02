@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0F26DB5F-217E-45AF-BC38-9D8747B9B16C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoursTableau.sln">
+    <Files>
+      <File FileName="CoursTableau.sln" Line="13" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CoursTableau FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{138F6E86-7CC9-4D9E-B6F3-28F0A84E4B59}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument=".vs/Lab2/xs/UserPrefs.xml">
+    <Files>
+      <File FileName=".vs/Lab2/xs/UserPrefs.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

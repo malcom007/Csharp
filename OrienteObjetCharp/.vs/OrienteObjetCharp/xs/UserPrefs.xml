@@ -1,11 +1,11 @@
-﻿<Properties StartupConfiguration="{F7AB8B8B-D0D3-4BE7-84CC-A23B9CA46F77}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="LabCours3OminiPop/Program.cs">
+﻿<Properties StartupConfiguration="{078F522C-4EC7-4C37-A850-69AFF42ABB7D}|Default">
+  <MonoDevelop.Ide.ItemProperties.OrienteObjetCharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OrienteObjetCharp/Program.cs">
     <Files>
-      <File FileName="LabCours3OminiPop/Program.cs" Line="54" Column="1" />
+      <File FileName="OrienteObjetCharp/Program.cs" Line="148" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.LabCours3OminiPop PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

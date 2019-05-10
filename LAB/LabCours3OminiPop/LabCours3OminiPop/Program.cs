@@ -49,6 +49,11 @@ namespace LabCours3OminiPop
 
         private static void monProgramme(int choixUser)
         {
+            arrayList ListeEleve = new arrayList();
+
+
+
+
             switch (choixUser)
             {
                 case 1:

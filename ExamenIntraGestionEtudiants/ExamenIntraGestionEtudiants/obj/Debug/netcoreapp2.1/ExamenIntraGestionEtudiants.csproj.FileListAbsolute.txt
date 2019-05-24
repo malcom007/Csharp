@@ -1,0 +1,11 @@
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/ExamenIntraGestionEtudiants/ExamenIntraGestionEtudiants/bin/Debug/netcoreapp2.1/ExamenIntraGestionEtudiants.deps.json
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/ExamenIntraGestionEtudiants/ExamenIntraGestionEtudiants/bin/Debug/netcoreapp2.1/ExamenIntraGestionEtudiants.runtimeconfig.json
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/ExamenIntraGestionEtudiants/ExamenIntraGestionEtudiants/bin/Debug/netcoreapp2.1/ExamenIntraGestionEtudiants.runtimeconfig.dev.json
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/ExamenIntraGestionEtudiants/ExamenIntraGestionEtudiants/bin/Debug/netcoreapp2.1/ExamenIntraGestionEtudiants.dll
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/ExamenIntraGestionEtudiants/ExamenIntraGestionEtudiants/bin/Debug/netcoreapp2.1/ExamenIntraGestionEtudiants.pdb
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/ExamenIntraGestionEtudiants/ExamenIntraGestionEtudiants/obj/Debug/netcoreapp2.1/ExamenIntraGestionEtudiants.csprojAssemblyReference.cache
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/ExamenIntraGestionEtudiants/ExamenIntraGestionEtudiants/obj/Debug/netcoreapp2.1/ExamenIntraGestionEtudiants.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/ExamenIntraGestionEtudiants/ExamenIntraGestionEtudiants/obj/Debug/netcoreapp2.1/ExamenIntraGestionEtudiants.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/ExamenIntraGestionEtudiants/ExamenIntraGestionEtudiants/obj/Debug/netcoreapp2.1/ExamenIntraGestionEtudiants.AssemblyInfo.cs
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/ExamenIntraGestionEtudiants/ExamenIntraGestionEtudiants/obj/Debug/netcoreapp2.1/ExamenIntraGestionEtudiants.dll
+/Volumes/GoogleDrive/Mon disque/2. Cours/2018/GitCours2019/Csharp2019/Csharp/ExamenIntraGestionEtudiants/ExamenIntraGestionEtudiants/obj/Debug/netcoreapp2.1/ExamenIntraGestionEtudiants.pdb
